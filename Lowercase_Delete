@@ -1,4 +1,4 @@
 import string
-Plotname = str.maketrans('', '', string.Sscii_lowercase)
+Plotname = str.maketrans('', '', string.Ascii_lowercase)
 Input = 'READ_ME'
 input.translate(plotName)
